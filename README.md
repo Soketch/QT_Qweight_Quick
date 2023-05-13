@@ -5,7 +5,7 @@ use QT  filestream  read-write data operation.
 use QT  sqlite store operation.
 
 <p align="center"> 登录界面login-signin</p>
-<img src="/effect_picture/img1.png" weight="100">
+<img src="effect_picture/img1.png">
 <p align="center">信息提示-登录失败login-signup</p>
 <img src="/effect_picture/img2.png" weight="100">
 <p align="center">功能界面functional interface</p>
