@@ -14,3 +14,5 @@ use QT  sqlite store operation.
 
 ### 2.calculator QT(QML)
 use qweight
+<p align="center"> calculator effect picture</p>
+<img src="calculatorwidget/doc/images/calculator.png" weight="100" >
